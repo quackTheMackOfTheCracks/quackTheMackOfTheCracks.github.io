@@ -298,10 +298,10 @@ function earthComing(){
 
 		}, true);
 
-		setInterval(RI,10);
-		setInterval(LI,10);
-		setInterval(gapTooth,10);
-		setInterval(theOnlyThingThatMAtters, 10);
+		//setInterval(RI,10);
+		//setInterval(LI,10);
+		//setInterval(gapTooth,10);
+		//setInterval(theOnlyThingThatMAtters, 10);
 	}
 
 }
