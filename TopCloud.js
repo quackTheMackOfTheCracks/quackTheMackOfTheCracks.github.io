@@ -275,8 +275,8 @@ function earthComing(){
 		planet.style.opacity = "0"; 
 		planet.style.top = "100%";
 
-		setInterval(brightUp,10);
-		setInterval(brightUp2,10);
+		//setInterval(brightUp,10);
+		//setInterval(brightUp2,10);
 		zs = true;
 
 		leftCover.addEventListener('mouseover', e =>{
